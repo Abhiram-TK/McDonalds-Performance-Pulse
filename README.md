@@ -64,4 +64,4 @@ In conclusion, the comprehensive analysis of McDonald's financial statements off
 
 ❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
 
-🌟 Thank you for your interest in OS Interface. Looking forward to connecting with you!
+🌟 Thank you for your interest in McDonald's Performance Pulse. Looking forward to connecting with you!
