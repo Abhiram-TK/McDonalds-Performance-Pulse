@@ -27,10 +27,10 @@ Compare the total debt of McDonald's with net assets and total assets to analyze
 ### Methodology
 The analysis utilizes Python programming language within a Jupyter Notebook environment for data preparation, cleaning, visualization, and statistical analysis. Various data visualization techniques such as line graphs, bar graphs, scatter graphs, and histograms are employed to illustrate trends, correlations, and distributions within the dataset.
 
-### Significance:
+### Significance
 Understanding McDonald's financial performance over the past two decades is crucial for informed decision-making regarding investment strategies, operational improvements, and financial planning. By providing comprehensive insights into key financial metrics and trends, this analysis aims to facilitate informed decision-making for investors, stakeholders, and management within the fast-food industry.
 
-## Project Overview:
+## Project Overview
 
 ###  Data Preparation & Cleaning
 
