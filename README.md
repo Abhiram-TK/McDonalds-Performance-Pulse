@@ -25,10 +25,10 @@ Calculate the average price-to-earnings (P/E) ratio over the entire dataset to a
 Compare the total debt of McDonald's with net assets and total assets to analyze the company's leverage position and financial health over time.
 
 ### Methodology
-- The analysis utilizes Python programming language within a Jupyter Notebook environment for data preparation, cleaning, visualization, and statistical analysis. Various data visualization techniques such as line graphs, bar graphs, scatter graphs, and histograms are employed to illustrate trends, correlations, and distributions within the dataset.
+The analysis utilizes Python programming language within a Jupyter Notebook environment for data preparation, cleaning, visualization, and statistical analysis. Various data visualization techniques such as line graphs, bar graphs, scatter graphs, and histograms are employed to illustrate trends, correlations, and distributions within the dataset.
 
 ### Significance:
-- Understanding McDonald's financial performance over the past two decades is crucial for informed decision-making regarding investment strategies, operational improvements, and financial planning. By providing comprehensive insights into key financial metrics and trends, this analysis aims to facilitate informed decision-making for investors, stakeholders, and management within the fast-food industry.
+Understanding McDonald's financial performance over the past two decades is crucial for informed decision-making regarding investment strategies, operational improvements, and financial planning. By providing comprehensive insights into key financial metrics and trends, this analysis aims to facilitate informed decision-making for investors, stakeholders, and management within the fast-food industry.
 
 ## Project Overview:
 
@@ -72,20 +72,16 @@ An area graph was plotted to visualize the trend in total liabilities and debt o
 
 ### Key Findings and Insights:
 
-- **Revenue, Earnings, and EPS Trends:** 
-
+- **Revenue, Earnings, and EPS Trends:**
 Revenue and earnings exhibit varying growth patterns over the years, with occasional fluctuations, while EPS shows a consistent upward trajectory.
 
 - **Operating Margin and Asset Correlation:** 
-
 Minimal positive correlations were observed between changes in operating margin and changes in net assets or total assets, indicating a weak association.
 
 - **Average P/E Ratio:** 
-
 The average P/E ratio over the entire period was approximately 21.66, reflecting the market's valuation of the company's earnings relative to its stock price.
 
 - **Debt-to-Asset Ratios:** 
-
 The analysis revealed fluctuations in the Debt-to-Net-Assets and Debt-to-Total-Assets ratios over time, indicating varying levels of debt coverage relative to net assets and total assets.
 
 ### Conclusion
