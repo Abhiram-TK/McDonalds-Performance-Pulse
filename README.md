@@ -39,35 +39,27 @@ Before delving into the analysis, thorough data preparation and cleaning were un
 ### Exploratory Data Analysis 
 
 - **Revenue ($B) Trend Over Years:**
-
 A line graph visualizes the trend in revenue over the years, highlighting growth patterns and fluctuations.
 
 - **Dividend Yield (%) History Over Years:**
-
 A bar graph depicts the history of dividend yield over the years, offering insights into dividend distribution trends.
 
 - **Dividend (stock split adjusted) ($) History Over Years:**
-
 Both bar and area graphs were employed to illustrate the history of dividends adjusted for stock splits over the years, providing a comprehensive view of dividend distribution trends.
 
 - **Shares Outstanding ($B) Trend Over Years:**
-
 A scatter graph tracks the trend in shares outstanding over the years, providing insights into changes in the company's capital structure.
 
 - **Market Cap ($B) Trend Over Years:**
-
 A line graph was plotted to visualize the trend in market capitalization over the years, highlighting fluctuations and growth trajectories.
 
 - **Valuation Ratios Over Years Grouped Bar:**
-
 A grouped bar graph was utilized to compare various valuation ratios over the years, offering insights into the company's financial health and market performance.
 
 - **Assets Trend Over Years:**
-
 A line graph was employed to track the trend in total assets over the years, providing insights into asset growth and management.
 
 - **Liabilities & Debt Trend Over Years:**
-
 An area graph was plotted to visualize the trend in total liabilities and debt over the years, offering insights into the company's debt management and financial stability.
 
 ### Key Findings and Insights:
