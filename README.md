@@ -88,6 +88,6 @@ In conclusion, the comprehensive analysis of McDonald's financial statements off
 
 ## Contact Information:
 
-❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
+❤️ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhiramtk). 
 
 🌟 Thank you for your interest in McDonald's Performance Pulse. Looking forward to connecting with you!
